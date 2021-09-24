@@ -22,10 +22,6 @@ Read more on [revealjs github repo](https://github.com/hakimel/reveal.js/#markdo
 
 {{%warning title="Important" %}}Even if the enclosed content is a mardown, use `<` shortcode notation instead of the `%` notation {{%/warning %}}
 
-### Content formating and slide delimiters
-
-[read more on this here]({{% relref "page-slide.md"%}})
-
 ## Demo
 
 
