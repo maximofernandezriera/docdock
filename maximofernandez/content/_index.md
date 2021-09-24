@@ -15,7 +15,7 @@ This theme is a partial porting of the [Learn theme of matcornic {{%icon fa-gith
 * [Automatic Search]({{%relref "search/_index.md" %}})
 * **Unlimited menu levels**
 * Automatic next/prev buttons to navigate through menu entries
-* [Image resizing, shadow...]({{%relref "page/page-images.md" %}})
+* [Image resizing, shadow...]({{%relref "si/page-images.md" %}})
 * [Attachments files]({{%relref "shortcodes/attachments.md" %}})
 * [List child pages]({{%relref "shortcodes/children/_index.md" %}})
 * [Excerpt]({{%relref "shortcodes/excerpt.md"%}}) ! Include segment of content from one page in another

@@ -109,6 +109,3 @@ ___
 - Get in bed
 - Count sheep
 
-```
-
-[{{%icon expand%}}click here to view this page rendered]({{%relref "ud1.md"%}})
