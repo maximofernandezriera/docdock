@@ -1,11 +1,11 @@
 +++
-title = "Create Page"
+title = "Sistemas informáticos"
 description = ""
-date = "2017-04-24T18:36:24+02:00"
-creatordisplayname = "Valere JEANTET"
-creatoremail = "valere.jeantet@gmail.com"
-lastmodifierdisplayname = "Valere JEANTET"
-lastmodifieremail = "valere.jeantet@gmail.com"
+date = "2021-09-27 - Creative commons"
+creatordisplayname = "Máximo Fernández Riera"
+creatoremail = "maxfernandez@gmail.com"
+lastmodifierdisplayname = "Máximo Fernández Riera"
+lastmodifieremail = "maxfernandez@gmail.com"
 tags = ["tag1","tag2"]
 weight = 10
 pre ="<i class='fa fa-edit' ></i> "
