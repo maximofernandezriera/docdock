@@ -1,10 +1,10 @@
 +++
-title = "My Slide ! fullscreen"
+title = "Sistemas informáticos"
 date = "2017-04-24T18:36:24+02:00"
 type="slide"
 hidden=true
 
-theme = "league"
+theme = "black"
 [revealOptions]
 transition= 'concave'
 controls= true
@@ -13,36 +13,41 @@ history= false
 center= true
 +++
 
-# In the morning
+## Unidad didáctica 1
 
-___
+## Los sistemas informáticos y los sistemas operativos
 
-## Getting up
+____
 
-- Turn off alarm
-- Get out of bed
+## Índice
 
-___
-
-## Breakfast
-
-- Eat eggs
-- Drink coffee
+* Introducción.
+* Composición.
+* Funciones y objetivos. 
+* Tipo. 
+* Servicios.
+* Introducción a los sistemas operativos DOS y UNIX.
 
 ---
 
-# In the evening
+## Índice
+
+* Introducción.
+* Composición.
+* Funciones y objetivos. 
+* Tipo. 
+* Servicios.
+* Introducción a los sistemas operativos DOS y UNIX.
 
 ___
 
-## Dinner
+## La informática
 
-- Eat spaghetti
-- Drink wine
+* Nace para evitar tareas repetitivas de cálculo y gestión.
+* El término informática apareció en Francia en 1962:
+
+**INFOR**  mationauto **MATIQUE**
 
 ___
 
-## Going to sleep
-
-- Get in bed
-- Count sheep
+## La informática es la ciencia que estudia el tratamiento automático y racional de la información.
