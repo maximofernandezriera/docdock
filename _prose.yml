@@ -1,0 +1,4 @@
+prose:
+  rooturl: 'maximofernandez/content'
+  siteurl: 'https://docdock.netlify.com/'
+  media: 'maximofernandez/static'
