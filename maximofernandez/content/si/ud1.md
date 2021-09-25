@@ -8,9 +8,10 @@ theme = "black"
 [revealOptions]
 transition= 'concave'
 controls= true
+controlsTutorial= true
 progress= true
 history= true
-center= false
+center= true
 +++
 
 ## Unidad didáctica 1
