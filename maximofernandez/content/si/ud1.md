@@ -300,3 +300,5 @@ Con estandarización en las comunicaciones, interfaces de usuario y aplicaciones
 1. Según el número de procesadores  
 1. Según la distribución de tareas del sistema  
 1. Según su estructura
+
+---
