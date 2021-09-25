@@ -9,8 +9,8 @@ theme = "black"
 transition= 'concave'
 controls= true
 progress= true
-history= false
-center= true
+history= true
+center= false
 +++
 
 ## Unidad didáctica 1
