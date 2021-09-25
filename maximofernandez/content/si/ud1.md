@@ -260,3 +260,43 @@ Empiezan las curvas.
  1. Las demandas de nuevos servicios
  1. La necesidad de resolver varios tipos de errores
  1. Los sistemas operativos, igual que el hardware, han sufrido cambios a través del tiempo.
+ 
+---
+
+## Tendencias actuales
+
+ 1. Multiproceso:
+
+ Sistemas con varios procesadores → el sistema operativo se encarga de administrar los procesadores para repartir el trabajo de
+ forma equilibrada
+
+ 1. Sistemas más tolerantes a fallos
+
+ Sistemas de envío de errores para facilitar la tarea de corrección.
+
+---
+
+## Más tendencias actuales
+
+ 1. Sistemas abiertos
+
+Con estandarización en las comunicaciones, interfaces de usuario y aplicaciones.
+
+---
+
+1. Interfaces de usuario más amigables
+
+1. Sistemas operativos ligeros
+
+---
+
+## Tipos de sistemas operativos
+
+ * Podemos clasificar los sistemas operativos según varios criterios:
+
+1. Según la utilización de recursos
+1. Según la interactividad  
+1. Según el número de usuarios  
+1. Según el número de procesadores  
+1. Según la distribución de tareas del sistema  
+1. Según su estructura
