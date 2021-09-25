@@ -58,6 +58,9 @@ ___
 
 * Para los ordenadores todos los datos son números acaban siendo conjuntos de 0 s y 1 s.
 * Debido a esto último, el ordenador no utiliza el sistema decimal si no el sistema binario.
+
+---
+
 * El ordenador utiliza mecanismos que traducen los datos a:
 
 1. Sistemas numéricos
@@ -67,7 +70,11 @@ ___
 
 ## Medida de la información
 
-## Como en la mayoría de ámbitos [distancia (Km), peso (Kg), tiempo (ml)], en la informática se utiliza una unidad base y sus múltiplos → el bit (b ).
+---
+
+## Como en la mayoría de ámbitos [distancia (Km), peso (Kg), tiempo (ml)], en la informática se utiliza una unidad base y sus múltiplos → el bit (b).
+
+---
 
 ## Permiten dos valores: 0 y 1
 
