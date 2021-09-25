@@ -292,7 +292,7 @@ Con estandarización en las comunicaciones, interfaces de usuario y aplicaciones
 
 ## Tipos de sistemas operativos
 
- * Podemos clasificar los sistemas operativos según varios criterios:
+* Podemos clasificar los sistemas operativos según varios criterios:
 
 1. Según la utilización de recursos
 1. Según la interactividad  
