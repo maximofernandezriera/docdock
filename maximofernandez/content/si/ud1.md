@@ -278,11 +278,9 @@ Empiezan las curvas.
 
 ## Más tendencias actuales
 
- 1. Sistemas abiertos
+1. Sistemas abiertos
 
 Con estandarización en las comunicaciones, interfaces de usuario y aplicaciones.
-
----
 
 1. Interfaces de usuario más amigables
 
