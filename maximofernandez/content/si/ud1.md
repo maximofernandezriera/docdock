@@ -88,6 +88,8 @@ ___
 
 * Llamamos byte (B) los conjuntos de 8 bits.
 
+---
+
 ## Múltiplos en el Sistema Internacional
 
 ## DANGER ZONE: en el Sistema Internacional (SI) utilizan prefijos para designar los múltiplos de una unidad determinada:
@@ -138,6 +140,11 @@ ___
 |bronto |B |2<sup>90</sup> = 1.024 · y|
 
 ---
+
+![image](https://user-images.githubusercontent.com/43608040/135451658-e2dfbb8a-7f93-499c-925a-f66ed9100b52.png)
+
+---
+
 
 ## Sistema Internacional vs Binario
 
