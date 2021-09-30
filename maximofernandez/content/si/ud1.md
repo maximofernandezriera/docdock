@@ -18,6 +18,8 @@ center= true
 
 ## Los sistemas informáticos y los sistemas operativos
 
+by Máximo Fernández Riera (under CC license)
+
 ___
 
 ## Índice
