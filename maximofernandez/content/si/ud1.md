@@ -285,7 +285,7 @@ pero \.\.\.
 
 ---
 
-![](img/Introducci%C3%B3%20als%20sistemes%20inform%C3%A0tics-es2.png)
+![](https://www.dropbox.com/s/vrglcj3rhld37on/03.png)
 
 ---
 
