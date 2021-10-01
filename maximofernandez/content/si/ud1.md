@@ -18,6 +18,8 @@ center= true
 
 # Máximo Fernández Riera 2021-2022
 
+___
+
 # índice
 
 <span style="color:#000000">la informática</span>
@@ -25,6 +27,8 @@ center= true
 <span style="color:#000000">sistemas Informáticos</span>
 
 <span style="color:#000000">El sistema binario</span>
+
+---
 
 # la informática
 
@@ -36,6 +40,8 @@ El término informática apareció en Francia en 1962
 
 __information automatique__
 
+---
+
 La informática es la ciencia que estudia el tratamiento automático y racional de la información\.
 
 Desarrollo y mejora de máquinas
@@ -44,15 +50,21 @@ Desarrollo y mejora de nuevos sistemas automáticos de trabajo\.
 
 Desarrollo de aplicaciones informáticas
 
+---
+
 # El ordenador
 
 Hoy en día todos llevamos un ordenador a encima \-> el móvil
 
 Pero en lugar de hablar de ordenadores \.\.\. mejor hablaremos de sistemas informáticos
 
+---
+
 # Partes del sistema informático
 
 <span style="color:#000000"> __¿Cuáles son las partes fundamentales de un sistema informático?__ </span>
+
+---
 
 Un sistema informático tiene dos partes únicas y fundamentales:
 
@@ -62,6 +74,8 @@ El software \(software\)
 
 Son totalmente dependientes entre sí\.
 
+---
+
 # Partes del sistema informático - Hardware
 
   * Tipo de componentes hardware:
@@ -70,6 +84,8 @@ Son totalmente dependientes entre sí\.
   * placa base
   * Buses \(datos\, direcciones y control\)
   * Periféricos \(entrada\, salida\, comunicación y almacenamiento\)
+
+---
 
 # Partes del sistema informático - Software
 
@@ -83,6 +99,8 @@ aplicaciones
 
 ![](img/Introducci%C3%B3%20als%20sistemes%20inform%C3%A0tics-es0.png)
 
+---
+
 # El sistema binario
 
 Para los ordenadores todos los datos son conjuntos de 0 y 1\.
@@ -91,11 +109,15 @@ Debido a esto\, el ordenador no utiliza el sistema decimal si no el sistema bina
 
 ![](img/Introducci%C3%B3%20als%20sistemes%20inform%C3%A0tics-es1.png)
 
+---
+
 # El sistema binario - Medida de la información
 
 un bit \(b\) es la unidad mínima de información \-> puede tener el valor 0 y 1
 
 8 bits = 1 Byte
+
+---
 
 ¿Cuántas combinaciones podemos representar con 1 bit?
 
@@ -103,7 +125,11 @@ un bit \(b\) es la unidad mínima de información \-> puede tener el valor 0 y 1
 
 Un bit \(b\) \-> puede tener el valor 0 y 1
 
+---
+
 ¿Cuántas combinaciones podemos representar con \.\.\.?
+
+---
 
 __1 bit:__
 
@@ -114,6 +140,8 @@ __1__
 __total:__
 
 __2__
+
+---
 
 __2 bits:__
 
@@ -129,6 +157,8 @@ __total:__
 
 __4__
 
+---
+
 __3 bits:__
 
 __000100__
@@ -143,6 +173,8 @@ __total:__
 
 __8__
 
+---
+
 __4 bits:__
 
 __0000 0100 1000 1100__
@@ -156,6 +188,8 @@ __0011 0111 1011 1111__
 __total:__
 
 __16__
+
+---
 
 Un bit \(b\) \-> puede tener el valor 0 y 1
 
@@ -175,6 +209,8 @@ __total:__
 
 __2__
 
+---
+
 __2 bits:__
 
 __00__
@@ -188,6 +224,8 @@ __11__
 __total:__
 
 __4__
+
+---
 
 __3 bits:__
 
@@ -203,6 +241,8 @@ __total:__
 
 __8__
 
+---
+
 __4 bits:__
 
 __0000 0100 1000 1100__
@@ -217,13 +257,19 @@ __total:__
 
 __16__
 
+---
+
 # El sistema binario - Múltiples en el Sistema Internacional
 
 En el sistema internacional se utilizan prefijos para designar los múltiplos de una unidad determinada:
 
+---
+
 # El sistema binario - Múltiples en el Sistema Binario
 
 Cuando se creó los múltiplos de las unidades en binario se adaptaron a su sistema de numeración:
+
+---
 
 # El sistema binario - SI vs SB
 
@@ -235,7 +281,11 @@ pero \.\.\.
 
 1 KB son 1024 Bytes
 
+---
+
 ![](img/Introducci%C3%B3%20als%20sistemes%20inform%C3%A0tics-es2.png)
+
+---
 
 El uso del Sistema binario creó confusión 1024 no es 1000
 
@@ -243,7 +293,11 @@ Los prefijos del Sistema Binario utilizan potencias de 2 y múltiples de 1024\, 
 
 En la informática utilizar potencias de 2 es PERFECTO porque utilizamos el sistema binario como representación de datos\.
 
+---
+
 Los fabricantes de SSD \(Solid State Disk\) utilizan el sistema internacional para especificar su capacidad\. Mientras que los sistemas operativos muestran la capacidad siguiendo el sistema binario\.
+
+---
 
 Si tenemosun disco duro de 2 TB
 
@@ -258,6 +312,8 @@ Pasamos el resultado a TB siguiendo el sistema binario \(/ 1024\):
 Compras un disco duro de 2 TB
 
 __pero según tu sistema operativo es de 1\,81 TB\!__
+
+---
 
 # El sistema binario - Solución
 
