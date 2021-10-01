@@ -97,6 +97,8 @@ El software se puede dividir en dos partes:
 
 ### APLICACIONES
 
+---
+
 ![](../../maximofernandez/static/01.png)
 
 ---
