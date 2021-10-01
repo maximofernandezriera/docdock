@@ -16,11 +16,11 @@ center= true
 
 # 1.1. Introducción a los sistemas informáticos
 
-# Máximo Fernández Riera 2021-2022
+Máximo Fernández Riera 2021-2022
 
 ___
 
-# índice
+# Índice
 
 <span style="color:#000000">la informática</span>
 
@@ -30,7 +30,7 @@ ___
 
 ---
 
-# la informática
+# La informática
 
 <span style="color:#000000"> __¿Qué es la informática?__ </span>
 
@@ -76,7 +76,7 @@ Son totalmente dependientes entre sí\.
 
 ---
 
-# Partes del sistema informático - Hardware
+## Partes del sistema informático - Hardware
 
   * Tipo de componentes hardware:
   * procesador
@@ -87,15 +87,15 @@ Son totalmente dependientes entre sí\.
 
 ---
 
-# Partes del sistema informático - Software
+## Partes del sistema informático - Software
 
 El software se puede dividir en dos partes:
 
-sistema operativo
+### SISTEMA OPERATIVO
 
 \(Es el que controla el acceso de las aplicaciones al hardware\)
 
-aplicaciones
+### APLICACIONES
 
 ![](img/Introducci%C3%B3%20als%20sistemes%20inform%C3%A0tics-es0.png)
 
