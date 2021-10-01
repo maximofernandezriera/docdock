@@ -99,7 +99,7 @@ El software se puede dividir en dos partes:
 
 ---
 
-![](../../maximofernandez/static/01.png)
+![](https://gist.githubusercontent.com/maximofernandezriera/cccde28ddc3de00c5282f62faab3cc96/raw/92443235f8abf817ec63fee929e151a86d0d24eb/01.png)
 
 ---
 
