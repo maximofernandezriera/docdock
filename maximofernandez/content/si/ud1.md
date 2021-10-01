@@ -97,7 +97,7 @@ El software se puede dividir en dos partes:
 
 ### APLICACIONES
 
-![](img/Introducci%C3%B3%20als%20sistemes%20inform%C3%A0tics-es0.png)
+![](../../static/01.png)
 
 ---
 
