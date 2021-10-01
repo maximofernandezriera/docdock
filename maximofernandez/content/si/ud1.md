@@ -97,7 +97,7 @@ El software se puede dividir en dos partes:
 
 ### APLICACIONES
 
-![](../../static/01.png)
+![](https://github.com/maximofernandezriera/docdock/blob/main/maximofernandez/static/01.png)
 
 ---
 
