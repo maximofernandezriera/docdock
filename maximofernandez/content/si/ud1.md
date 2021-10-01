@@ -109,7 +109,7 @@ Para los ordenadores todos los datos son conjuntos de 0 y 1\.
 
 Debido a esto\, el ordenador no utiliza el sistema decimal si no el sistema binario\.
 
-![](img/Introducci%C3%B3%20als%20sistemes%20inform%C3%A0tics-es1.png)
+![](https://gist.githubusercontent.com/maximofernandezriera/6eb04f9409c051cd74fdead930595da5/raw/226cf14be0f5f3d29b50ed987c528313881ae0c7/02.png)
 
 ---
 
@@ -285,7 +285,7 @@ pero \.\.\.
 
 ---
 
-![](https://www.dropbox.com/s/vrglcj3rhld37on/03.png)
+![](https://gist.githubusercontent.com/maximofernandezriera/f2280d50520acf84c4912b38a20d8f80/raw/d60ddc403f94af75790ab3093230bcce46856234/04.png)
 
 ---
 
