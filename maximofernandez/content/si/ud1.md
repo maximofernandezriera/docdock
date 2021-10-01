@@ -14,298 +14,251 @@ history= true
 center= true
 +++
 
-## Unidad didáctica 1
+# 1.1. Introducción a los sistemas informáticos
 
-## Los sistemas informáticos y los sistemas operativos
+# Máximo Fernández Riera 2021-2022
 
-by Máximo Fernández Riera (under CC license)
+# índice
 
-___
+<span style="color:#000000">la informática</span>
 
-## Índice
+<span style="color:#000000">sistemas Informáticos</span>
 
-* Introducción.
-* Composición.
-* Funciones y objetivos. 
-* Tipo. 
-* Servicios.
-* Introducción a los sistemas operativos DOS y UNIX.
+<span style="color:#000000">El sistema binario</span>
 
+# la informática
 
----
+<span style="color:#000000"> __¿Qué es la informática?__ </span>
 
-## La informática
+Nace para evitar tareas repetitivas de cálculo y gestión
 
-* Nace para evitar tareas repetitivas de cálculo y gestión.
-* El término informática apareció en Francia en 1962:
+El término informática apareció en Francia en 1962
 
-**INFOR**  mationauto **MATIQUE**
+__information automatique__
 
----
+La informática es la ciencia que estudia el tratamiento automático y racional de la información\.
 
-## La informática es la ciencia que estudia el tratamiento automático y racional de la información.
+Desarrollo y mejora de máquinas
 
----
+Desarrollo y mejora de nuevos sistemas automáticos de trabajo\.
 
-## Función y objetivos
+Desarrollo de aplicaciones informáticas
 
-* Desarrollo y mejora de máquinas
+# El ordenador
 
-* Desarrollo y mejora de nuevos sistemas automáticos de trabajo.
+Hoy en día todos llevamos un ordenador a encima \-> el móvil
 
-* Construcción de aplicaciones informáticas.
+Pero en lugar de hablar de ordenadores \.\.\. mejor hablaremos de sistemas informáticos
 
----
+# Partes del sistema informático
 
-## El sistema binario
+<span style="color:#000000"> __¿Cuáles son las partes fundamentales de un sistema informático?__ </span>
 
-* Para los ordenadores todos los datos son números acaban siendo conjuntos de 0 s y 1 s.
-* Debido a esto último, el ordenador no utiliza el sistema decimal si no el sistema binario.
+Un sistema informático tiene dos partes únicas y fundamentales:
 
----
+El hardware \(hardware\)
 
-* El ordenador utiliza mecanismos que traducen los datos a:
+El software \(software\)
 
-1. Sistemas numéricos
-1. Códigos alfanuméricos
+Son totalmente dependientes entre sí\.
 
----
+# Partes del sistema informático - Hardware
 
-## Medida de la información
+  * Tipo de componentes hardware:
+  * procesador
+  * memoria
+  * placa base
+  * Buses \(datos\, direcciones y control\)
+  * Periféricos \(entrada\, salida\, comunicación y almacenamiento\)
 
----
+# Partes del sistema informático - Software
 
-## Como en la mayoría de ámbitos [distancia (Km), peso (Kg), tiempo (ml)], en la informática se utiliza una unidad base y sus múltiplos → el bit (b).
+El software se puede dividir en dos partes:
 
----
+sistema operativo
 
-## Permiten dos valores: 0 y 1
+\(Es el que controla el acceso de las aplicaciones al hardware\)
 
-* ¿Cuántas combinaciones podemos representar con un único bit?
-* ¿Cuántas combinaciones tenemos con 2 bits? con 3?con 4?
+aplicaciones
 
----
+![](img/Introducci%C3%B3%20als%20sistemes%20inform%C3%A0tics-es0.png)
 
-## La información que da un bit es mínima, por lo tanto hay que buscar sus múltiplos:
+# El sistema binario
 
-* Llamamos byte (B) los conjuntos de 8 bits.
+Para los ordenadores todos los datos son conjuntos de 0 y 1\.
 
----
+Debido a esto\, el ordenador no utiliza el sistema decimal si no el sistema binario\.
 
-## Múltiplos en el Sistema Internacional
+![](img/Introducci%C3%B3%20als%20sistemes%20inform%C3%A0tics-es1.png)
 
-## DANGER ZONE: en el Sistema Internacional (SI) utilizan prefijos para designar los múltiplos de una unidad determinada:
+# El sistema binario - Medida de la información
 
----
+un bit \(b\) es la unidad mínima de información \-> puede tener el valor 0 y 1
 
-## Veamos la siguiente tabla con las siguientes características:
+8 bits = 1 Byte
 
-## nombre  | unidad | símbolo | valor en el SI
+¿Cuántas combinaciones podemos representar con 1 bit?
 
----
+¿Y con 2? ¿Y con 3? ¿Y con 4?
 
-|<p>**nombre** </p><p>unidad </p>|**símbolo** |<p>**valor en el SI** </p><p>20 = 1</p>|
-| :-: | :-: | :-: |
-|kilo |k |10<sup>3</sup> = 1.000|
-|mega |M |10<sup>6</sup> = 1.000. 000|
-|giga |G |10<sup>9</sup> = 1.000.000.000|
-|tera |T |10<sup>12</sup> = 1.000.000.000.000|
-|peta |P |10<sup>15</sup> = 1.000.000.000.000.000|
-|exa |E |10<sup>18</sup> = 1.000.000.000.000.000.000|
-|zetta |Z |10<sup>21</sup> = 1.000.000.000. 000.000.000.000|
-|yotta |Y |10<sup>24</sup> = 1.000.000.000.000.000.000.000.000|
+Un bit \(b\) \-> puede tener el valor 0 y 1
 
----
+¿Cuántas combinaciones podemos representar con \.\.\.?
 
-## Múltiplos en binario
+__1 bit:__
 
-## Cuando se crearon los múltiplos de las unidades en binario se adaptaron a su sistema de numeración.
+__0__
 
----
+__1__
 
-## Veamos la siguiente tabla con las siguientes características:
+__total:__
 
-## nombre  | unidad | símbolo | valor en el SI
+__2__
 
----
+__2 bits:__
 
-|<p>**nombre** </p><p>unidad </p>|**símbolo** |<p>**valor en el SI** </p><p>20 = 1</p>|
-| :-: | :-: | :-: |
-|kilo |k |2<sup>10</sup> = 1.024|
-|mega |M |2<sup>20</sup> = 1.024 · k|
-|giga |G |2<sup>30</sup> = 1.024 · M|
-|tera |T |2<sup>40</sup> = 1.024 · G|
-|peta |P |2<sup>50</sup> = 1.024 · T|
-|exa |E |2<sup>60</sup> = 1.024 · P|
-|zetta |Z |2<sup>70</sup> = 1.024 · e|
-|yotta |y |2<sup>80</sup> = 1.024 · Z|
-|bronto |B |2<sup>90</sup> = 1.024 · y|
+__00__
 
----
+__01__
 
-![image](https://user-images.githubusercontent.com/43608040/135451658-e2dfbb8a-7f93-499c-925a-f66ed9100b52.png)
+__10__
 
----
+__11__
 
+__total:__
 
-## Sistema Internacional vs Binario
+__4__
 
-## ¿Qué posible **confusión** encuentra entre el Sistema Internacional y el binario?
+__3 bits:__
 
----
+__000100__
 
-## Fíjaos en la siguiente tabla: 
+__001101__
 
-## **Podemos observar los siguientes porcentajes de desfase**
+__010110__
 
----
+__011111__
 
-![](https://revista.jovenclub.cu/wp-content/uploads/2016/03/Tabla-5.jpg) 
+__total:__
 
----
+__8__
 
-## Los prefijos del **Sistema binario** utilizan **potencias de 2**,mientras que **el SI** utiliza **potencias de 10**.
+__4 bits:__
 
-## Los fabricantes de discos duros utilizan el sistema decimal, pero el ordenador calcula la capacidad mediante el Sistema Binario. 
+__0000 0100 1000 1100__
 
----
+__0001 0101 1001 1101__
 
-## Usamos la  siguiente fórmula para calcular la capacidad en binario:
+__0010 0110 1010 1110__
 
----
+__0011 0111 1011 1111__
 
- <img src="/home/maximo/Slides/Markdown-Templates/images/image2.png"/>
+__total:__
 
----
+__16__
 
-* *N* es la capacidad del fabricante  
-* *y* es el prefijo equivalente en decimal  
-* *x* es el prefijo equivalente en binario
+Un bit \(b\) \-> puede tener el valor 0 y 1
 
----
+¿Cuántas combinaciones podemos representar con \.\.\.?
 
-## ¿Qué capacidad, en Sistema Binario, tiene un disco duro de 120 GB según su fabricante?
+<span style="color:#0000FF"> __Son potencias de 2\!__ </span>
 
-Vamos.
+<span style="color:#0000FF"> __n bits \-> 2 ^ n combinaciones\!__ </span>
 
----
+__1 bits:__
 
-## Sistema Internacional vs Binario (III)
+__0__
 
-## SOLUCIÓN a la confusión: se introducen nuevos prefijos.
+__1__
 
----
+__total:__
 
-<img src="/home/maximo/Slides/Markdown-Templates/images/tabla.png"/>
+__2__
 
----
+__2 bits:__
 
-## Introducción a los sistemas operativos
+__00__
 
-Empiezan las curvas.
+__01__
 
----
+__10__
 
-## Ordenador: máquina compleja
+__11__
 
-* Uno o más procesadores  
-* Discos y dispositivos de almacenamiento  
-* Tarjetas de comunicaciones  
-* Periféricos  
-* ...
+__total:__
 
----
+__4__
 
-## El usuario, los dispositivos y el sistema operativo
+__3 bits:__
 
- * Un usuario debería de conocer los detalles técnicos para controlar a la perfección los dispositivos → solución imposible.
+__000100__
 
- * Hay que buscar una solución a este problema de manera que un usuario cualquiera pueda utilizar fácilmente la máquina.
+__001101__
 
----
+__010110__
 
-## El sistema operativo es una capa más
+__011111__
 
-* Capa de software que aísla el hardware de los usuarios.
+__total:__
 
-1. Hardware
+__8__
 
-2. Sistema Operativo
+__4 bits:__
 
-3. Software
+__0000 0100 1000 1100__
 
----
+__0001 0101 1001 1101__
 
-## El sistema operativo tiene 3 objetivos principales:
+__0010 0110 1010 1110__
 
-1. **Comodidad:** hace que el ordenador sea más fácil de utilizar.
-1. **Eficiencia:** permite que los recursos del sistema se utilicen de forma más eficiente.
-1. **Capacidad de evolución:** está construido de forma que permita un desarrollo continuo (actualizaciones, correcciones, nuevos  servicios,...)
+__0011 0111 1011 1111__
 
----
+__total:__
 
-## Funciones del sistema operativo
+__16__
 
-* Las funciones principales que debe realizar un sistema operativo son las siguientes:
+# El sistema binario - Múltiples en el Sistema Internacional
 
-1. Gestión de usuarios  
-1. Gestión de procesos  
-1. gestión de memoria  
-1. Gestión de archivos
-1. Gestión de los dispositivos de entrada y salida
+En el sistema internacional se utilizan prefijos para designar los múltiplos de una unidad determinada:
 
----
+# El sistema binario - Múltiples en el Sistema Binario
 
-## El kernel
+Cuando se creó los múltiplos de las unidades en binario se adaptaron a su sistema de numeración:
 
-### El núcleo o **kernel** del sistema operativo administra todas las funciones antes mencionadas.
+# El sistema binario - SI vs SB
 
----
+1 Kg de patatas son 1\.000 gramos de patatas
 
-## Perspectiva histórica de los sistemas operativos
+1 Km son 1000 metros
 
- 1. Las causas principales de la evolución de los sistemas operativos han sido:
- 1. Las actualizaciones y los nuevos tipos de hardware
- 1. Las demandas de nuevos servicios
- 1. La necesidad de resolver varios tipos de errores
- 1. Los sistemas operativos, igual que el hardware, han sufrido cambios a través del tiempo.
- 
----
+pero \.\.\.
 
-## Tendencias actuales
+1 KB son 1024 Bytes
 
- 1. Multiproceso:
+![](img/Introducci%C3%B3%20als%20sistemes%20inform%C3%A0tics-es2.png)
 
- Sistemas con varios procesadores → el sistema operativo se encarga de administrar los procesadores para repartir el trabajo de
- forma equilibrada
+El uso del Sistema binario creó confusión 1024 no es 1000
 
- 1. Sistemas más tolerantes a fallos
+Los prefijos del Sistema Binario utilizan potencias de 2 y múltiples de 1024\, mientras que el SI utiliza potencias de 10 y múltiples de 1000\.
 
- Sistemas de envío de errores para facilitar la tarea de corrección.
+En la informática utilizar potencias de 2 es PERFECTO porque utilizamos el sistema binario como representación de datos\.
 
----
+Los fabricantes de SSD \(Solid State Disk\) utilizan el sistema internacional para especificar su capacidad\. Mientras que los sistemas operativos muestran la capacidad siguiendo el sistema binario\.
 
-## Más tendencias actuales
+Si tenemosun disco duro de 2 TB
 
-1. Sistemas abiertos
+Pasamos 2 TB a Bytes siguiendo el sistema internacional \(x1000\)
 
-Con estandarización en las comunicaciones, interfaces de usuario y aplicaciones.
+2 TB \-> 2000 GB \-> 2\.000\.000 MB \-> 2000000000 KB \-> 2 000 000 000 000 B
 
-1. Interfaces de usuario más amigables
+Pasamos el resultado a TB siguiendo el sistema binario \(/ 1024\):
 
-1. Sistemas operativos ligeros
+2 000 000 000 000 B \-> \.\.\. \-> 1\,818 TB
 
----
+Compras un disco duro de 2 TB
 
-## Tipos de sistemas operativos
+__pero según tu sistema operativo es de 1\,81 TB\!__
 
-* Podemos clasificar los sistemas operativos según varios criterios:
+# El sistema binario - Solución
 
-1. Según la utilización de recursos
-1. Según la interactividad  
-1. Según el número de usuarios  
-1. Según el número de procesadores  
-1. Según la distribución de tareas del sistema  
-1. Según su estructura
-
----
+Se crearon unos estándares para poder solucionar el problema para que no haya confusión\.
