@@ -163,13 +163,13 @@ __4__
 
 __3 bits:__
 
-__000100__
+__000 100__
 
-__001101__
+__001 101__
 
-__010110__
+__010 110__
 
-__011111__
+__011 111__
 
 __total:__
 
@@ -231,13 +231,13 @@ __4__
 
 __3 bits:__
 
-__000100__
+__000 100__
 
-__001101__
+__001 101__
 
-__010110__
+__010 110__
 
-__011111__
+__011 111__
 
 __total:__
 
@@ -289,9 +289,9 @@ pero \.\.\.
 
 ---
 
-El uso del Sistema binario creó confusión 1024 no es 1000
+## El uso del Sistema binario creó confusión 1024 no es 1000
 
-Los prefijos del Sistema Binario utilizan potencias de 2 y múltiples de 1024\, mientras que el SI utiliza potencias de 10 y múltiples de 1000\.
+Los prefijos del Sistema Binario utilizan potencias de 2 y múltiplos de 1024\, mientras que el SI utiliza potencias de 10 y múltiplos de 1000\.
 
 En la informática utilizar potencias de 2 es PERFECTO porque utilizamos el sistema binario como representación de datos\.
 
