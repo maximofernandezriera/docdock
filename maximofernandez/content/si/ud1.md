@@ -97,7 +97,9 @@ El software se puede dividir en dos partes:
 
 ### APLICACIONES
 
-![](../../static/01.png)
+---
+
+![](https://gist.githubusercontent.com/maximofernandezriera/cccde28ddc3de00c5282f62faab3cc96/raw/92443235f8abf817ec63fee929e151a86d0d24eb/01.png)
 
 ---
 
@@ -107,7 +109,7 @@ Para los ordenadores todos los datos son conjuntos de 0 y 1\.
 
 Debido a esto\, el ordenador no utiliza el sistema decimal si no el sistema binario\.
 
-![](img/Introducci%C3%B3%20als%20sistemes%20inform%C3%A0tics-es1.png)
+![](https://gist.githubusercontent.com/maximofernandezriera/6eb04f9409c051cd74fdead930595da5/raw/226cf14be0f5f3d29b50ed987c528313881ae0c7/02.png)
 
 ---
 
@@ -161,13 +163,13 @@ __4__
 
 __3 bits:__
 
-__000100__
+__000 100__
 
-__001101__
+__001 101__
 
-__010110__
+__010 110__
 
-__011111__
+__011 111__
 
 __total:__
 
@@ -229,13 +231,13 @@ __4__
 
 __3 bits:__
 
-__000100__
+__000 100__
 
-__001101__
+__001 101__
 
-__010110__
+__010 110__
 
-__011111__
+__011 111__
 
 __total:__
 
@@ -283,12 +285,13 @@ pero \.\.\.
 
 ---
 
+![](https://gist.githubusercontent.com/maximofernandezriera/f2280d50520acf84c4912b38a20d8f80/raw/d60ddc403f94af75790ab3093230bcce46856234/04.png)
 
 ---
 
-El uso del Sistema binario creó confusión 1024 no es 1000
+## El uso del Sistema binario creó confusión 1024 no es 1000
 
-Los prefijos del Sistema Binario utilizan potencias de 2 y múltiples de 1024\, mientras que el SI utiliza potencias de 10 y múltiples de 1000\.
+Los prefijos del Sistema Binario utilizan potencias de 2 y múltiplos de 1024\, mientras que el SI utiliza potencias de 10 y múltiplos de 1000\.
 
 En la informática utilizar potencias de 2 es PERFECTO porque utilizamos el sistema binario como representación de datos\.
 
