@@ -332,3 +332,5 @@ __pero según tu sistema operativo es de 1\,81 TB\!__
 # El sistema binario - Solución
 
 Se crearon unos estándares para poder solucionar el problema para que no haya confusión\.
+
+![](/fin.png)
