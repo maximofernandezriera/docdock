@@ -100,7 +100,6 @@ El software se puede dividir en dos partes:
 ---
 
 ![](https://gist.githubusercontent.com/maximofernandezriera/cccde28ddc3de00c5282f62faab3cc96/raw/92443235f8abf817ec63fee929e151a86d0d24eb/01.png)
-![](/12.png)
 
 ---
 
@@ -265,6 +264,10 @@ __16__
 # El sistema binario - Múltiples en el Sistema Internacional
 
 En el sistema internacional se utilizan prefijos para designar los múltiplos de una unidad determinada:
+
+---
+
+![](/03.png)
 
 ---
 
