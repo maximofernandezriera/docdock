@@ -277,6 +277,10 @@ Cuando se creó los múltiplos de las unidades en binario se adaptaron a su sist
 
 ---
 
+![](/04.png)
+
+---
+
 # El sistema binario - SI vs SB
 
 1 Kg de patatas son 1\.000 gramos de patatas
@@ -286,6 +290,10 @@ Cuando se creó los múltiplos de las unidades en binario se adaptaron a su sist
 pero \.\.\.
 
 1 KB son 1024 Bytes
+
+---
+
+![](/12.png)
 
 ---
 
