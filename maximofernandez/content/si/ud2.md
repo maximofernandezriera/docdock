@@ -213,4 +213,4 @@ UberWriter (Linux)
 
 **MARKDOWN**
 
-[Dillinger](https://dillinger.io/)[ ](https://dillinger.io/)[(Online)](https://dillinger.io/)        
+[Dillinger](https://dillinger.io/)[ ](https://dillinger.io/)[(Online)](https://dillinger.io/)
