@@ -340,3 +340,49 @@ Se crearon unos estándares para poder solucionar el problema para que no haya c
 ---
 
 Estos múltiplos estándar fueron definidos por la IEC.
+
+---
+# ACTIVIDAD 1
+
+Acabamos de comprar tres discos duros iguales los que, según el comercial, cada uno de ellos tiene la capacidad de 350 GB (gigabytes). Como puede ver está indicada con prefijos del SI.
+
+## ACTIVIDAD
+
+- Calcular la capacidad de cada disco duro, utilizando los prefijos adecuados.
+- Tenemos previsto instalar los tres discos en un servidor. Calcular la máxima capacidad teórica de esta configuración. Expresar el resultado en Tebibytes (TiB) según el IEC.
+
+---
+
+ACTIVIDAD. ENTREGA POR PAREJAS (work in pairs):
+
+- Mediante un google docs en esta misma tarea.
+
+NOTA: Apto/no apto.
+
+APTO: 5
+
+---
+
+# ACTIVIDAD AMPLIADA:
+
+Tenemos una máquina VPS con debian accesible mediante ssh en la siguiente dirección: vps-f673b248.vps.ovh.net
+
+Un posible usuario de esa máquina es: actividad1
+
+Y el password corresponde al nombre completo que hay tras las siglas IEC (sin espacios y en minúsculas).
+
+---
+
+a) ¿De qué capacidad es el disco duro de esa máquina?
+
+b) Expresa el resultado en Tebibytes (TiB).
+
+c) ¿En qué directorio se encuentra el fichero passwd?
+
+d) Expresa el peso de dicho fichero en bytes.
+
+e) Crea un fichero .dat con el siguiente formato nombre_apellido1_apellido2 en el directorio /home/actividad1 que contenga el mensaje "hola".
+
+---
+
+Deberás investigar de manera autónoma los conocimientos necesarios para superar este reto. Cada apartado suma +1 punto a la nota final de la actividad.
