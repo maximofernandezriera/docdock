@@ -346,6 +346,8 @@ Estos múltiplos estándar fueron definidos por la IEC.
 
 Acabamos de comprar tres discos duros iguales los que, según el comercial, cada uno de ellos tiene la capacidad de 350 GB (gigabytes). Como puede ver está indicada con prefijos del SI.
 
+---
+
 ## ACTIVIDAD
 
 - Calcular la capacidad de cada disco duro, utilizando los prefijos adecuados.
