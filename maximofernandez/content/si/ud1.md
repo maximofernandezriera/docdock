@@ -385,4 +385,4 @@ e) Crea un fichero .dat con el siguiente formato nombre_apellido1_apellido2 en e
 
 ---
 
-Deberás investigar de manera autónoma los conocimientos necesarios para superar este reto. Cada apartado suma +1 punto a la nota final de la actividad.
+Debereis investigar de manera autónoma los conocimientos necesarios para superar este reto. Cada apartado suma +1 punto a la nota final de la actividad.
