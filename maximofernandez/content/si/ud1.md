@@ -274,7 +274,7 @@ Empiezan las curvas.
 
  Sistemas de envío de errores para facilitar la tarea de corrección.
 
----
+___
 
 ## Más tendencias actuales
 
@@ -298,5 +298,20 @@ Con estandarización en las comunicaciones, interfaces de usuario y aplicaciones
 1. Según el número de procesadores  
 1. Según la distribución de tareas del sistema  
 1. Según su estructura
+
+___
+
+## Tipos de sistemas operativos (II)
+
+* Podemos clasificar los sistemas operativos según varios criterios:
+
+* Según la utilización de recursos. Número de programas que ejecutan simultáneamente:
+
+1. Sistemas monoprogramados / monotarea:
+
+** sólo admiten un programa en el sistema. El programa es cargado en memoria y es allí hasta que acabade
+ ser ejecutado. Durante este periodo no se puede ejecutar ningún otro programa.
+
+1. Sistemas multiprogramados / multitarea: pueden admitir uno o  más programas de uno o más usuarios simultáneamente.
 
 ---
