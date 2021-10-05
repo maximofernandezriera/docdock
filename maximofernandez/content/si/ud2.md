@@ -1,11 +1,18 @@
----
-author: Máximo Fernández Riera
-title: Creación de documentación como código
-date: "2021-01-18"
-urlcolor: "solarized"
-theme: black
-transition: fade
----
++++
+title = "Sistemas informáticos"
+date = "2017-04-24T18:36:24+02:00"
+type="slide"
+hidden=true
+
+theme = "black"
+[revealOptions]
+transition= 'concave'
+controls= true
+controlsTutorial= true
+progress= true
+history= true
+center= true
++++
 
 ## CREACIÓN DE DOCUMENTACIÓN CON MARKDOWN Y GITHUB
 
