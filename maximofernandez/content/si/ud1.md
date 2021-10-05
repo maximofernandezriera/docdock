@@ -278,7 +278,6 @@ Cuando se creó los múltiplos de las unidades en binario se adaptaron a su sist
 ---
 
 ![](/04.png)
-![](/04.png)
 
 ---
 
