@@ -20,6 +20,8 @@ center= true
 
 mfernandez@cifpfbmoll.eu
 
+---
+
 ## 1. HERRAMIENTAS PARA PRODUCIR DOCUMENTACIÓN TÉCNICA
 
 * Sistema de control de versiones
@@ -28,6 +30,8 @@ mfernandez@cifpfbmoll.eu
 
 * Publicación automática
 
+---
+
 ## HERRAMIENTAS POPULARES(Y GRATUITAS)
 
 **Git** es un software de control de versiones para colaborar y trabajar con otras personas en la creación de un proyecto.
@@ -35,6 +39,8 @@ mfernandez@cifpfbmoll.eu
 **Markdown** Es un lenguaje de marcas que facilita la aplicación de formato a un texto para publicarlo en una página web.
 
 **GitHub** es una plataforma web para alojar proyectos que usa Git como herramienta de control de versiones.
+
+---
 
 ## 2. QUÉ LENGUAJE DEBO USAR PARA ESCRIBIR DOCUMENTACIÓN
 
@@ -46,21 +52,29 @@ mfernandez@cifpfbmoll.eu
 
 * Codificar ese formato para dar consistencia
 
+---
+
 ## DEFINICIÓN
 
 **El lenguaje de marcas** es una forma de codificar un documento que, junto con el texto, incorpora [etiquetas](https://es.wikipedia.org/wiki/Etiqueta_\(lenguaje_de_marcado\)) o marcas que contienen información adicional acerca de la estructura del texto o su presentación.
 
-_Wikipedia_
+_Wikipedia
+
+---
 
 ## USA LENGUAJE DE MARCAS PARA DAR FORMATO AUN TEXTO WEB
 
 **LENGUAJES DE MARCASMÁS COMUNES**
+
+---
 
 ## HTML
 
 1. Creación de páginas web y aplicaciones web
 1. Muestra los datos
 1. Etiquetas
+
+---
 
 ## XML
 
@@ -70,6 +84,8 @@ _Wikipedia_
 1. Almacenar y transporta datos
 1. Etiquetas
 
+---
+
 HTML válido
 
 Muestra los datos
@@ -78,9 +94,7 @@ Etiquetas
 
 Etiquetas
 
-
-
-
+---
 
 **HTML**
 
@@ -98,9 +112,7 @@ Etiquetas
 
 **</body>**
 
-
-
-
+---
 
 **XML**
 
@@ -112,9 +124,7 @@ Etiquetas
 
 **</body>**
 
-
-
-
+---
 
 **MARKDOWN**
 
@@ -122,25 +132,19 @@ Etiquetas
 
 **\*\* Texto en negrita\*\***
 
-
-
-
+---
 
 **POR QUÉ**
 
 **MARKDOWN**
 
-
-
-
+---
 
 **MARKDOWN: ESCRIBE RÁPIDO, ESCRIBE**
 
 **MEJOR**
 
-
-
-
+---
 
 **GUÍA RÁPIDA,MUY RÁPIDA**
 
@@ -152,6 +156,8 @@ Etiquetas
 
 \```
 
+---
+
 $ Bloque de comandos
 
 $ comando
@@ -160,9 +166,7 @@ $ comando
 
 [Link](www.ejemplo.com)
 
-
-
-
+---
 
 **GUÍA RÁPIDA,MUY RÁPIDA**
 
@@ -176,6 +180,8 @@ $ comando
 
 \* Lista item 3
 
+---
+
 \1. Lista numerada item 1
 
 \2. Lista numerada item 2
@@ -183,41 +189,28 @@ $ comando
 \3. Lista numerada item 3
 
 
+---
 
-
-
-**EDITORESDE**
-
-**MARKDOWN**
+**EDITORES DE MARKDOWN**
 
 MarkdownPad (Windows)
 
+---
 
-
-
-
-**EDITORESDE**
-
-**MARKDOWN**
+**EDITORES DE MARKDOWN**
 
 Mou (OS X)
 
+---
 
-
-
-
-**EDITORESDE**
-
-**MARKDOWN**
+**EDITORES DE MARKDOWN**
 
 UberWriter (Linux)
 
+---
 
-
-
-
-**EDITORESDE**
-
-**MARKDOWN**
+**EDITORES DE MARKDOWN**
 
 [Dillinger](https://dillinger.io/)[ ](https://dillinger.io/)[(Online)](https://dillinger.io/)
+
+---
