@@ -278,6 +278,7 @@ Cuando se creó los múltiplos de las unidades en binario se adaptaron a su sist
 ---
 
 ![](/04.png)
+![](/04.png)
 
 ---
 
@@ -384,25 +385,6 @@ c) ¿En qué directorio se encuentra el fichero passwd?
 d) Expresa el peso de dicho fichero en bytes.
 
 e) Crea un fichero .dat con el siguiente formato nombre_apellido1_apellido2 en el directorio /home/actividad1 que contenga el mensaje "hola".
-
-<<<<<<< HEAD
-___
-
-## Tipos de sistemas operativos (II)
-
-* Podemos clasificar los sistemas operativos según varios criterios:
-
-* Según la utilización de recursos. Número de programas que ejecutan simultáneamente:
-
-1. Sistemas monoprogramados / monotarea:
-
-** sólo admiten un programa en el sistema. El programa es cargado en memoria y es allí hasta que acabade
- ser ejecutado. Durante este periodo no se puede ejecutar ningún otro programa.
-
-1. Sistemas multiprogramados / multitarea: pueden admitir uno o  más programas de uno o más usuarios simultáneamente.
-
----
-=======
 ---
 
 Debereis investigar de manera autónoma los conocimientos necesarios para superar este reto. Cada apartado suma +1 punto a la nota final de la actividad.
