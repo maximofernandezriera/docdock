@@ -54,3 +54,5 @@ to browse site on http://localhost:1313
 ## Your website's content
 
 Find out how to [create]({{%relref "si/_index.md"%}}) and [organize your content]({{%relref "content-organisation/_index.md"%}}) quickly and intuitively.
+
+Find out how to [create]({{%relref "ud2/_index.md"%}}) and [organize your content]({{%relref "content-organisation/_index.md"%}}) quickly and intuitively.
