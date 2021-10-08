@@ -14,203 +14,145 @@ history= true
 center= true
 +++
 
-## CREACIÓN DE DOCUMENTACIÓN CON MARKDOWN Y GITHUB
-
-**DOCUMENTACIÓN COMO CÓDIGO**
-
-mfernandez@cifpfbmoll.eu
+# 1.2. Introducción a los sistemas operativos
 
 ---
 
-## 1. HERRAMIENTAS PARA PRODUCIR DOCUMENTACIÓN TÉCNICA
-
-* Sistema de control de versiones
-
-* Cadena de revisiones
-
-* Publicación automática
+# sistema operativo
+Aunque una de las funciones del sistema operativo permite el acceso del software al hardware, no es imprescindible. Hay sistemas informáticos que no tienen sistema operativo. Por tanto, el sistema informático no es imprescindible.
 
 ---
 
-## HERRAMIENTAS POPULARES(Y GRATUITAS)
+Sistema operativo - Objetivos
+El sistema operativo tiene tres objetivos principales:
+Comodidad: hace que el ordenador sea más fácil de utilizar
+Eficiencia: permite que los recursos del sistema se utilicen de forma más eficiente
+Capacidad de evolución: está construido de manera que permita un desarrollo continuo (actualizaciones, correcciones, nuevos servicios, ...)
+ 
+---
 
-**Git** es un software de control de versiones para colaborar y trabajar con otras personas en la creación de un proyecto.
+Sistema operativo - Funciones principales
+Las funciones principales que debe realizar un sistema operativo son las siguientes:
+Administración de procesos
+Administración de recursos
+Administración de memoria
+Proporcionar una interfaz para comunicarse con el usuario
+Gestión de usuarios y permisos
+El núcleo (kernel) del sistema operativo administra todas estas funciones.
+ 
+---
 
-**Markdown** Es un lenguaje de marcas que facilita la aplicación de formato a un texto para publicarlo en una página web.
-
-**GitHub** es una plataforma web para alojar proyectos que usa Git como herramienta de control de versiones.
+Sistema operativo - Funciones principales
+Administración de procesos:
+Los sistemas informáticos están preparados para ejecutar diferentes procesos a la vez. El sistema operativo se encarga de decidir el orden de procesamiento de los diferentes programas que se están ejecutando.
+Administración de recursosç
+El S.O. tiene la capacidad de distribuir los diferentes recursos (p.e. memoria y dispositivos) entre los procesos. El SO tiene un registro que le permite conocer qué recursos están disponibles y cuáles se están utilizando, durante cuánto tiempo, por qué proceso, etc.
 
 ---
 
-## 2. QUÉ LENGUAJE DEBO USAR PARA ESCRIBIR DOCUMENTACIÓN
-
-### ELEGIR ELLENGUAJE ADECUADO
-
-* Dónde se va a publicar el contenido: web
-
-* Necesidad de dar formato al texto
-
-* Codificar ese formato para dar consistencia
+Sistema operativo - Funciones principales
+Administración de la memoria:
+Supervisa qué áreas de la memoria están en uso y cuáles están libres. Además, determina cuánta memoria asignará a un proceso y en qué momento. También libera la memoria cuando un proceso ya no es requerida para un proceso.
+Algunos sistemas de almacenamiento: ext4, NTFS y exFAT.
+Gestión de usuarios y permisos:
+Aplica una serie de permisos a los usuarios que les permiten acceder al sistema y así poder evitar acciones que afectan al trabajo que están realizando otros usuarios.
 
 ---
 
-## DEFINICIÓN
-
-**El lenguaje de marcas** es una forma de codificar un documento que, junto con el texto, incorpora [etiquetas](https://es.wikipedia.org/wiki/Etiqueta_\(lenguaje_de_marcado\)) o marcas que contienen información adicional acerca de la estructura del texto o su presentación.
-
-_Wikipedia
+Sistema operativo - Funciones principales
+Proporcionar una interfaz para comunicarse con el usuario:
+Esta puede ser tanto una interfaz gráfica (GUI) o como una interfaz donde se pueda introducir y recibir información en forma de texto (línea de comandos).
 
 ---
 
-## USA LENGUAJE DE MARCAS PARA DAR FORMATO AUN TEXTO WEB
-
-**LENGUAJES DE MARCASMÁS COMUNES**
-
----
-
-## HTML
-
-1. Creación de páginas web y aplicaciones web
-1. Muestra los datos
-1. Etiquetas
+Sistema operativo - Clasificación
+Existen diferentes formas por las que se pueden clasificar los sistemas operativos:
+Según la cantidad de procesos que pueden gestionar de forma simultánea:
 
 ---
 
-## XML
-
-1. Textos web.
-1. 1.Autoexplicativo
-1. Marcas simples
-1. Almacenar y transporta datos
-1. Etiquetas
+MONOTAREA
+Sólo admiten un programa al sistema. El programa es cargado en memoria y es allí hasta que acaba de ser ejecutado. Durante este periodo no se puede ejecutar ningún otro programa.
+Realiza tareas secuencialmente.
+MULTITAREA
+Pueden admitir uno o más programas de uno o más usuarios simultáneamente.
 
 ---
 
-HTML válido
-
-Muestra los datos
-
-Etiquetas
-
-Etiquetas
-
----
-
-**HTML**
-
-**<head>**
-
-**<h1 id="encabezado">Encabezado</h1>**
-
-**</head>**
-
-**<body>**
-
-**<font size=”8”><b>Texto en**
-
-**negrita</b></font>**
-
-**</body>**
+Sistema operativo - Clasificación
+Según el número de usuarios del sistema:
+monousuario
+Sólo permiten en un determinado momento la conexión de un único usuario a la vez en el sistema. Utilizan técnicas de monoprogramació ejecutando un único programa o pueden ser sistemas multiprogramados, que facilitan al usuario la ejecución de varios programas a la vez.
+Por ejemplo, el sistema operativo DOS ..
+MULTIUSUARIO
+Varios usuarios pueden trabajar simultáneamente.
+Por ejemplo, UNIX.
 
 ---
 
-**XML**
-
-**<title>Encabezado</title>**
-
-**<body>**
-
-**<p><b>Texto en negrita</b></p>**
-
-**</body>**
+Sistema operativo - Clasificación
+Según el número de procesadores:
+MONOPROCESO
+El sistema informático sólo dispone de un procesador. Por tanto, sólo permite realizar un proceso a la vez.
+multiproceso
+El sistema informático dispone de varios procesadores. Por lo tanto, permite ejecutar diferentes tareas al mismo tiempo, debido a que ofrecen realizar varios procesos de forma simultánea.
 
 ---
 
-**MARKDOWN**
-
-**# Encabezado**
-
-**\*\* Texto en negrita\*\***
-
----
-
-**POR QUÉ**
-
-**MARKDOWN**
+Sistema operativo - Clasificación
+Según los servicios que ofrecen:
+CENTRALIZADOS
+Todos los recursos se encuentran en una misma máquina (mainframe).
+DISTRIBUIDOS
+Los recursos utilizados pueden estar en diferentes máquinas que deben estar conectadas en red.
 
 ---
 
-**MARKDOWN: ESCRIBE RÁPIDO, ESCRIBE**
-
-**MEJOR**
-
----
-
-**GUÍA RÁPIDA,MUY RÁPIDA**
-
-#H1, ##H2, ### H3, #### H 4
-
-\*\*Negritas\*\*, \*Cursivas\*\*, Texto en redonda
-
-`$ comando`
-
-\```
+No se debe confundir el sistema distribuido con el sistema en red:
+En un sistema operativo en red los diversos sistemas informáticos están interconectados (por ejemplo, red local de ordenadores). Cada uno tiene su propio software y hardware.
+En un sistema operativo distribuido, el software distribuye las tareas en la red y los usuarios no saben donde se realizan las tareas.
 
 ---
 
-$ Bloque de comandos
-
-$ comando
-
-\```
-
-[Link](www.ejemplo.com)
-
----
-
-**GUÍA RÁPIDA,MUY RÁPIDA**
-
-\> Cita
-
-\> Segunda línea de la cita
-
-\* Lista item 1
-
-\* Lista item 2
-
-\* Lista item 3
+Sistema operativo - Clasificación
+Según el tipo de licencia:
+PROPIETARIOS
+Aquellas que tienen limitaciones de uso.
+Son propiedad de alguna empresa.
+LIBRES
+Permiten utilizar el programa libremente.
+La licencia es el contrato entre los desarrolladores de software y el usuario. Se definen con precisión los derechos y deberes de cada parte.
 
 ---
 
-\1. Lista numerada item 1
-
-\2. Lista numerada item 2
-
-\3. Lista numerada item 3
-
-
----
-
-**EDITORES DE MARKDOWN**
-
-MarkdownPad (Windows)
+Sistema operativo - Clasificación
+Hay varios tipos de licencias. Estas especifican las acciones que puedes realizar sobre el software adquirido.
+Por ejemplo:
+Licencia GPL (sistema operativo Linux): permite la copia modificación y redistribución del software. la licencia y no deja de ser válida si se efectúan cambios en el hardware. No ofrece garantía.
+Licencia EULA (sistema operativo Windows XP): se prohíbe la copia. La licencia puede dejar de ser válida si se efectúan cambios en el hardware. Garantía los primeros 90 días.
 
 ---
 
-**EDITORES DE MARKDOWN**
-
-Mou (OS X)
-
----
-
-**EDITORES DE MARKDOWN**
-
-UberWriter (Linux)
+Sistema operativo - Inicios
+El concepto de "Sistema Operativo" aparece en los años 50 cuando IBM desarrolló el primer sistema operativo.
+En los años 60 se produce una revolución en este campo. Aparecen conceptos como multitarea, multiusuario y multiproceso. Durante las primeras décadas, los sistemas operativos eran monotasca, monousuario y monoprocés.
+A finales de los 60 aparece UNIX, es la base de la gran mayoría de los sistemas operativos actuales (solaris, Mac OS, ...).
+En los años 80, se lanzó el sistema operativo MS-DOS, el primer sistema operativo de Microsoft, con la idea de que todo el mundo pudiera tener un ordenador en su casa.
 
 ---
 
-**EDITORES DE MARKDOWN**
-
-[Dillinger](https://dillinger.io/)[ ](https://dillinger.io/)[(Online)](https://dillinger.io/)
+Sistema operativo -
+Inicios - MS-DOS
+Este sistema operativo dejaba que el proceso que se estaba ejecutando pudiera tener acceso a todos los recursos que quisiera. En consecuencia, había muchos problemas de seguridad.
+No era multiusuario.
+No era multitarea.
+En primeras versiones no podía trabajar con más de 64KB de RAM. A partir de la versión 7.1 ya soportaba sistemas de ficheros FAT32 con 4GiB de limitación.
 
 ---
+
+Sistema operativo - Tendencias
+Multiproceso: administrar los procesadores para repartir el trabajo de forma equilibrada.
+Sistemas más tolerantes a fallos: sistemas de errores para facilitar la tarea de corrección.
+Sistemas abiertos: estandarización en las comunicaciones, interfaces de usuario y aplicaciones.
+Interfaces de usuario (GUI) más amigables.
+Sistemas operativos ligeros. Por ejemplo, Windows 10 ocupa unos 10 GB en disco.
