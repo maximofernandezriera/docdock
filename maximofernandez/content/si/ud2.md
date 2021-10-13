@@ -218,4 +218,4 @@ Sistemas operativos ligeros. Por ejemplo, Windows 10/11 ocupa unos 10 GB en disc
 1. ¿Cuánto ocupa Elemantary OS en disco?
 1. ¿Cuánto ocupa Arch lunux en disco?
 1. ¿Cuánto ocupa POP OS en disco?
-1. ¿Cuánto ocupa un macos en disco?
+1. ¿Cuánto ocupa el último macos en disco?
