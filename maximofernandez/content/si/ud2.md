@@ -25,6 +25,9 @@ Una de las funciones del sistema operativo es permitir el acceso del software al
 
 # Sistema operativo - Objetivos
 El sistema operativo tiene tres objetivos principales:
+
+---
+
 1. Comodidad: hace que el ordenador sea más fácil de utilizar
 1. Eficiencia: permite que los recursos del sistema se utilicen de forma más eficiente
 1. Capacidad de evolución: está construido de manera que permita un desarrollo continuo (actualizaciones, correcciones, nuevos servicios, ...)
@@ -33,12 +36,18 @@ El sistema operativo tiene tres objetivos principales:
 
 # Sistema operativo - Funciones principales
 Las funciones principales que debe realizar un sistema operativo son las siguientes:
-Administración de procesos
-Administración de recursos
-Administración de memoria
-Proporcionar una interfaz para comunicarse con el usuario
-Gestión de usuarios y permisos
-El núcleo (kernel) del sistema operativo administra todas estas funciones.
+
+---
+
+1. Administración de procesos
+1. Administración de recursos
+1. Administración de memoria
+
+---
+
+1. Proporcionar una interfaz para comunicarse con el usuario
+1. Gestión de usuarios y permisos
+1. El núcleo (kernel) del sistema operativo administra todas estas funciones.
  
 ---
 
