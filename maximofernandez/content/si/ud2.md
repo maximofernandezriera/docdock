@@ -23,11 +23,11 @@ Una de las funciones del sistema operativo es permitir el acceso del software al
 
 ---
 
-Sistema operativo - Objetivos
+# Sistema operativo - Objetivos
 El sistema operativo tiene tres objetivos principales:
-Comodidad: hace que el ordenador sea más fácil de utilizar
-Eficiencia: permite que los recursos del sistema se utilicen de forma más eficiente
-Capacidad de evolución: está construido de manera que permita un desarrollo continuo (actualizaciones, correcciones, nuevos servicios, ..)
+1. Comodidad: hace que el ordenador sea más fácil de utilizar
+1. Eficiencia: permite que los recursos del sistema se utilicen de forma más eficiente
+1. Capacidad de evolución: está construido de manera que permita un desarrollo continuo (actualizaciones, correcciones, nuevos servicios, ...)
  
 ---
 
