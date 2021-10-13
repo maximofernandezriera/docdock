@@ -57,13 +57,13 @@ Los sistemas informáticos están preparados para ejecutar diferentes procesos a
 
 ---
 
-# Sistema operativo - Funciones principales
+## Sistema operativo - Funciones principales
 1. Administración de recursos:
 El S.O. tiene la capacidad de distribuir los diferentes recursos (p.e. memoria y dispositivos) entre los procesos. El SO tiene un registro que le permite conocer qué recursos están disponibles y cuáles se están utilizando, durante cuánto tiempo, por qué proceso, etc.
 
 ---
 
-# Sistema operativo - Funciones principales
+## Sistema operativo - Funciones principales
 1. Administración de la memoria:
 Supervisa qué áreas de la memoria están en uso y cuáles están libres. Además, determina cuánta memoria asignará a un proceso y en qué momento. También libera la memoria cuando un proceso ya no es requerida para un proceso.
 Algunos sistemas de almacenamiento: ext4, NTFS y exFAT.
@@ -101,6 +101,9 @@ Pueden admitir uno o más programas de uno o más usuarios simultáneamente.
 
 # Sistema operativo - Clasificación
 Según el número de usuarios del sistema:
+
+---
+
 1. Monousuario
 Sólo permiten en un determinado momento la conexión de un único usuario a la vez en el sistema. Utilizan técnicas de monoprogramació ejecutando un único programa o pueden ser sistemas multiprogramados, que facilitan al usuario la ejecución de varios programas a la vez.
 Por ejemplo, el sistema operativo DOS.
@@ -116,6 +119,9 @@ Por ejemplo, UNIX.
 
 # Sistema operativo - Clasificación
 Según el número de procesadores:
+
+---
+
 1. Monoproceso
 El sistema informático sólo dispone de un procesador. Por tanto, sólo permite realizar un proceso a la vez.
 2. Multiproceso
@@ -132,8 +138,11 @@ Los recursos utilizados pueden estar en diferentes máquinas que deben estar con
 
 ---
 
-# SO en red VS Sistema distribuido
+## SO en red VS Sistema distribuido
 ## No se debe confundir el sistema distribuido con el sistema operativo en red.
+
+---
+
 En un sistema operativo en red los diversos sistemas informáticos están interconectados (por ejemplo, red local de ordenadores). Cada uno tiene su propio software y hardware.
 En un sistema operativo distribuido, el software distribuye las tareas en la red y los usuarios no saben donde se realizan las tareas.
 
@@ -141,10 +150,10 @@ En un sistema operativo distribuido, el software distribuye las tareas en la red
 
 # Sistema operativo - Clasificación
 Según el tipo de licencia:
-1. PROPIETARIOS
+1. PROPIETARIOS:
 Aquellas que tienen limitaciones de uso.
 Son propiedad de alguna empresa.
-2. LIBRES
+2. LIBRES:
 Permiten utilizar el programa libremente.
 La licencia es el contrato entre los desarrolladores de software y el usuario. Se definen con precisión los derechos y deberes de cada parte.
 
@@ -154,6 +163,8 @@ La licencia es el contrato entre los desarrolladores de software y el usuario. S
 Hay varios tipos de licencias. Estas especifican las acciones que puedes realizar sobre el software adquirido.
 Por ejemplo:
 
+---
+
 # LICENCIAS
 1. Licencia GPL (sistema operativo Linux): permite la copia modificación y redistribución del software. la licencia y no deja de ser válida si se efectúan cambios en el hardware. No ofrece garantía.
 2. Licencia EULA (sistema operativo Windows XP y demás): se prohíbe la copia. La licencia puede dejar de ser válida si se efectúan cambios en el hardware. Garantía los primeros 90 días.
@@ -162,7 +173,7 @@ Por ejemplo:
 
 # Sistema operativo - Inicios
 El concepto de "Sistema Operativo" aparece en los años 50 cuando IBM desarrolló el primer sistema operativo.
-En los años 60 se produce una revolución en este campo. Aparecen conceptos como multitarea, multiusuario y multiproceso. Durante las primeras décadas, los sistemas operativos eran monotasca, monousuario y monoproceso.
+En los años 60 se produce una revolución en este campo. Aparecen conceptos como multitarea, multiusuario y multiproceso. Durante las primeras décadas, los sistemas operativos eran monotarea, monousuario y monoproceso.
 
 ---
 
@@ -176,6 +187,10 @@ En los años 80, se lanzó el sistema operativo MS-DOS, el primer sistema operat
 Este sistema operativo dejaba que el proceso que se estaba ejecutando pudiera tener acceso a todos los recursos que quisiera. En consecuencia, había muchos problemas de seguridad.
 No era multiusuario.
 No era multitarea.
+
+---
+
+# Sistema operativo- Inicios - MS-DOS
 En primeras versiones no podía trabajar con más de 64KB de RAM. A partir de la versión 7.1 ya soportaba sistemas de ficheros FAT32 con 4GiB de limitación.
 
 ---
@@ -183,7 +198,14 @@ En primeras versiones no podía trabajar con más de 64KB de RAM. A partir de la
 # Sistema operativo - Tendencias
 Multiproceso: administrar los procesadores para repartir el trabajo de forma equilibrada.
 Sistemas más tolerantes a fallos: sistemas de errores para facilitar la tarea de corrección.
+
+---
+
+# Sistema operativo - Tendencias
 Sistemas abiertos: estandarización en las comunicaciones, interfaces de usuario y aplicaciones.
+---
+
+# Sistema operativo - Tendencias
 Interfaces de usuario (GUI) más amigables.
 Sistemas operativos ligeros. Por ejemplo, Windows 10/11 ocupa unos 10 GB en disco.
 
