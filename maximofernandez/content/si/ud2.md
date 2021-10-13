@@ -19,7 +19,7 @@ center= true
 ---
 
 # Sistema operativo
-Una de las funciones del sistema operativo es permitir el acceso del software al hardware, pero deberemsos conocer los conceptos tratados en estas diapositivas.
+Una de las funciones del sistema operativo es permitir el acceso del software al hardware. Debemos ir más allá y conocer los conceptos tratados en estas diapositivas.
 
 ---
 
