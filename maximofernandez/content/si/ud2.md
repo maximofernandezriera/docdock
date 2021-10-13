@@ -211,9 +211,9 @@ Sistemas operativos ligeros. Por ejemplo, Windows 10/11 ocupa unos 10 GB en disc
 
 ---
 
-# Trabajo de investigación 
+# Trabajo de investigación
 
-1. ¿Cuánto ocupa Ubuntu en disco?
+1. ¿Cuánto ocupa Kali Linux en disco?
 1. ¿Cuánto ocupa Garuda Linux en disco?
 1. ¿Cuánto ocupa Elemantary OS en disco?
 1. ¿Cuánto ocupa Arch lunux en disco?
